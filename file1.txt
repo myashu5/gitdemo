@@ -1,2 +1,2 @@
 this is contents of file1
-this is line2 of file1
+this is line2 of file1 updated from feature
